@@ -13,6 +13,7 @@ y me gustaria aprender mas sobre ello.
 - Desarrollo Web: HTML, CSS, XML, XAML, Bootstrap, ASP.NET
 - Base de Datos: MongoDB, Firebase, MySQL, SQL Server
 - Control de Versiones: Git, GitHub
+- Otros: Figma
 
 ## 📫 Contacto
 
