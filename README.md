@@ -1,35 +1,20 @@
-# Lydia Perez
+# Hola, soy Lydia Pérez 👋
 
-## Sobre mi
-Estudiante de Desarrollo de Aplicaciones 
-Multiplataformas en el IES Nervion. 
+### Sobre mi
+
+Estudiante de Desarrollo de Aplicaciones
+Multiplataformas en el IES Nervion.
 Me gusta mucho la informatica y la programacion,
 y me gustaria aprender mas sobre ello.
 
-## Herramientas
-- [x] Visual Studio
-- [x] Android Studio
-- [x] GitHub
-- [x] IntelliJ IDEA
-- [x] WebStorm
-- [x] SQL Server Management Studio
+## 🚀 Habilidades
 
-## Lenguajes
-- [x] Java
-- [x] Kotlin
-- [x] MySQL
-- [x] HTML
-- [x] CSS
-- [x] XML
-- [x] XAML
-- [x] Maui
-- [x] ASP.NET
-- [x] C#
+- Desarrollo de Aplicaciones Móviles: Java, Kotlin, Maui, C#
+- Desarrollo Web: HTML, CSS, XML, XAML, Bootstrap, ASP.NET
+- Base de Datos: MongoDB, Firebase, MySQL, SQL Server
+- Control de Versiones: Git, GitHub
 
-## Contacto
+## 📫 Contacto
 
-    Gmail: lydiaprglez@gmail.com
-    
-    Discord: lydia#0632
-    
-    LinkedIn: https://www.linkedin.com/in/lydia-perez-gonzalez-062564250/
+- LinkedIn: [Lydia Pérez](https://www.linkedin.com/in/lydia-perez-gonzalez-062564250/)
+- Gmail: lydiaprzglez@gmail.com
