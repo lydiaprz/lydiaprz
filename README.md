@@ -27,4 +27,9 @@ y me gustaria aprender mas sobre ello.
 - [x] C#
 
 ## Contacto
-    Gmail: 
+
+    Gmail: lydiaprglez@gmail.com
+    
+    Discord: lydia#0632
+    
+    LinkedIn: https://www.linkedin.com/in/lydia-perez-gonzalez-062564250/
