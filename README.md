@@ -19,3 +19,4 @@ y me gustaria aprender mas sobre ello.
 
 - LinkedIn: [Lydia Pérez](https://www.linkedin.com/in/lydia-perez-gonzalez-062564250/)
 - Gmail: lydiaprzglez@gmail.com
+- Discord: lydia#0632
