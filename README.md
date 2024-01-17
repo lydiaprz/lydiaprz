@@ -8,7 +8,7 @@ Entusiasmada por poder ampliar
 mis conocimientos en un entorno
 laboral y crecer profesionalmente.
 
-## 🚀 Habilidades
+## 🚀 Habilidades informaticas
 
 - Lenguajes de programación: Java, Kotlin, C#, SQL
   
