@@ -10,11 +10,19 @@ laboral y crecer profesionalmente.
 
 ## 🚀 Habilidades
 
-- Desarrollo de Aplicaciones Móviles: Java, Kotlin, Maui, C#
-- Desarrollo Web: HTML, CSS, XML, XAML, Bootstrap, ASP.NET
-- Base de Datos: MongoDB, Firebase, MySQL, SQL Server
+- Lenguajes de programación: Java, Kotlin, C#, SQL
+  
+- Lenguajes de marcas: HTML,  XML, XAML, CSS, JavaScript
+  
+- Base de Datos: Firebase, MongoDB, MariaDB
+  
+- Patrones de diseño: MVC, MVVM
+  
+- Frameworks: NET 7.0, Bootstrap, Hibernate, Angular
+
 - Control de Versiones: Git, GitHub
-- Otros: Figma
+  
+- Otros: Figma, Canva
 
 ## 📫 Contacto
 
