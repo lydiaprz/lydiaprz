@@ -24,12 +24,12 @@ laboral y crecer profesionalmente.
   
 - Otros: Figma, Canva
 
-## Idiomas
+##  Idiomas
   Español (nativo)
   
   Ingles (basico)
 
-## 🎓[Certificados](https://drive.google.com/drive/folders/18cb32gzK8bOTpsY58mT6LOi20tCdP7CM?usp=drive_link)
+## 🎓 [Certificados](https://drive.google.com/drive/folders/18cb32gzK8bOTpsY58mT6LOi20tCdP7CM?usp=drive_link)
 
 ## 📫 Contacto
 
