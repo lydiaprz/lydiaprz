@@ -24,10 +24,15 @@ laboral y crecer profesionalmente.
   
 - Otros: Figma, Canva
 
+## Idiomas
+  Español (nativo)
+  Ingles (basico)
+
+## [Certificados](https://drive.google.com/drive/folders/18cb32gzK8bOTpsY58mT6LOi20tCdP7CM?usp=drive_link)
+
 ## 📫 Contacto
 
 - LinkedIn: [Lydia Pérez](https://www.linkedin.com/in/lydia-perez-gonzalez-062564250/)
 - Gmail: lydiaprzglez@gmail.com
 - Discord: lydia#0632
 
-## [Certificados](https://drive.google.com/drive/folders/18cb32gzK8bOTpsY58mT6LOi20tCdP7CM?usp=drive_link)
