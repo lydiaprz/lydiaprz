@@ -29,7 +29,7 @@ laboral y crecer profesionalmente.
   
   Ingles (basico)
 
-## [Certificados](https://drive.google.com/drive/folders/18cb32gzK8bOTpsY58mT6LOi20tCdP7CM?usp=drive_link)
+## 🎓[Certificados](https://drive.google.com/drive/folders/18cb32gzK8bOTpsY58mT6LOi20tCdP7CM?usp=drive_link)
 
 ## 📫 Contacto
 
