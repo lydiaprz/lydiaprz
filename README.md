@@ -18,7 +18,7 @@ laboral y crecer profesionalmente.
   
 - Patrones de diseño: MVC, MVVM
   
-- Frameworks: NET 7.0, Bootstrap, Hibernate, Angular
+- Frameworks: NET 7.0, Bootstrap, Hibernate
 
 - Control de Versiones: Git, GitHub
   
