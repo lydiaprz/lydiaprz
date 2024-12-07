@@ -2,11 +2,7 @@
 
 ### Sobre mi
 
-Estudiante de Desarrollo de
-Aplicaciones Multiplataformas, en el IES Nervion. 
-Entusiasmada por poder ampliar
-mis conocimientos en un entorno
-laboral y crecer profesionalmente.
+Soy una joven titulada como técnico superior en el área de desarrollo. Con experiencia en manejo de herramientas como: Postman, Git Bash , patrones de diseños o dominio de Kotlin. Estoy interesada en el campo de ciberseguridad, aunque estoy abierta a otros sectores. Otras habilidades a destacar serian la resolución de problemas, "buscavidas", no me cierro la puerta ante una dificultad.
 
 ## 🚀 Habilidades informaticas
 
