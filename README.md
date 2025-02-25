@@ -2,7 +2,7 @@
 
 ### Sobre mi
 
-Tras completar mi formación en Desarrollo de Aplicaciones Multiplataforma, trabajé como QA Trainee en Eviden, enfocándome en la automatización de pruebas. Cuento con experiencia en herramientas como Jenkins, Selenium y .NET, aplicando metodologías Agile y Waterfall. Me motiva superar retos y asegurar calidad y eficiencia. Principalmente interesada en ciberseguridad, pero abierta a otros sectores.
+Tras completar mi formación en Desarrollo de Aplicaciones Multiplataforma, trabajé como QA Trainee en Eviden, enfocándome en la automatización de pruebas. Cuento con experiencia en herramientas como Jenkins, Selenium y .NET, aplicando metodologías Agile. Me motiva superar retos y asegurar calidad y eficiencia. Principalmente interesada en ciberseguridad, pero abierta a otros sectores.
 
 ## 🚀 Habilidades informaticas
 
