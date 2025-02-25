@@ -2,7 +2,7 @@
 
 ### Sobre mi
 
-Soy una joven titulada como técnico superior en el área de desarrollo. Con experiencia en manejo de herramientas como: Postman, Git Bash , patrones de diseños o dominio de Kotlin. Estoy interesada en el campo de ciberseguridad, aunque estoy abierta a otros sectores. Otras habilidades a destacar serian la resolución de problemas, "buscavidas", no me cierro la puerta ante una dificultad.
+Tras completar mi formación en Desarrollo de Aplicaciones Multiplataforma, trabajé como QA Trainee en Eviden, enfocándome en la automatización de pruebas. Cuento con experiencia en herramientas como Jenkins, Selenium y .NET, aplicando metodologías Agile y Waterfall. Me motiva superar retos y asegurar calidad y eficiencia. Principalmente interesada en ciberseguridad, pero abierta a otros sectores.
 
 ## 🚀 Habilidades informaticas
 
